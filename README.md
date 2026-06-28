@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mahmoud Mohamed Nagm
+# Hi 👋, I'm Mahmoud Mohamed Negm
 
 ### 💻 Front-End Developer | Web Programming Student
 
